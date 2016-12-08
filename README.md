@@ -1,4 +1,4 @@
-# W3C Community Group open chat
+# OpenActive W3C Community Group open chat
 
 Please join the W3C Community Group chat via one of the following means:
 
