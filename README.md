@@ -6,4 +6,4 @@ Please join the W3C Community Group chat via one of the following means:
 
 - Bridge this chat to a channel in your own Slack using [Sameroom](https://sameroom.io/xWXUNJUc)
 
-- Join the chat on [IRC](irc://irc.w3.org:6667/#openactive)
+- Join the chat on irc.w3.org #openactive
