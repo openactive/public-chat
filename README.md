@@ -1,6 +1,6 @@
 # OpenActive W3C Community Group open chat
 
-If you are part of the [OpenActive community](https://www.openactive.io/pioneers.html), you can join the chat via the **#open-w3c-cg** channel in the [OpenActive community slack](https://openactive.slack.com/signup). To join the OpenActive community, please [fill in this form](https://openactive.typeform.com/to/JZjJf8).
+If you are part of the [OpenActive community](https://www.openactive.io/pioneers.html), you can join the chat via the **#open-w3c-cg** channel in the [OpenActive community slack](https://openactive.slack.com/signup). If you are not already involved, please consider [joining the OpenActive community](https://openactive.typeform.com/to/JZjJf8).
 
 Otherwise, please join the W3C Community Group chat via one of the following means:
 
