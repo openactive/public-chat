@@ -22,6 +22,5 @@ Once on Slack, you'll find the following channels interesting:
 - **#random** - random off-topic chat
 
 ### Technical chats:
-- **#activation** - live QA of new OpenActive datasets
 - **#public-openactive-w3c** - a chat for help implementing standards
 - **#w3c-cg-github** - live updates of standards discussions on GitHub, focussed on updating and maintaining standards
