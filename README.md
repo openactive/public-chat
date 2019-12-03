@@ -1,3 +1,5 @@
+# DEPRECATED 03 DECEMBER 2019 - DO NOT USE
+
 # OpenActive Community open chat [![Join the chat at https://slack.openactive.io/](https://slack.openactive.io/badge.svg)](https://slack.openactive.io)
 
 ## How to Join
