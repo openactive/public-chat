@@ -17,10 +17,10 @@ We recommend that you announce yourself to the group on **#general** and state y
 
 Once on Slack, you'll find the following channels interesting:
 
-### Non-technical chats:
+### General chats:
 - **#general** - general updates, opportunities and chat
 - **#random** - random off-topic chat
 
-### Technical chats:
-- **#public-openactive-w3c** - a chat for help implementing standards
-- **#w3c-cg-github** - live updates of standards discussions on GitHub, focussed on updating and maintaining standards
+### Standards-related chats:
+- **#w3c-cg-chat** - a chat for informal discussions around standards development
+- **#w3c-cg-notifications** - live updates of standards discussions on GitHub, focussed on updating and maintaining standards
